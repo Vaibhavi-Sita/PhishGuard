@@ -94,9 +94,6 @@ This project implements an advanced phishing website detection system that combi
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 - Google Gemini AI for advanced language model capabilities
 - URLNet authors for the deep learning architecture
