@@ -15,7 +15,7 @@ This project implements an advanced phishing website detection system that combi
 │   └── icons/                     # Extension icons
 │
 ├── finetuning and evaluation/     # Model Training and Evaluation
-│   ├── combined_models.py         # Ensemble model implementation
+│   ├── COMP517.ipynb         # Ensemble model implementation
 │   ├── urlnet.py                  # URLNet model implementation
 │   ├── logistic_regression.py     # Traditional ML model
 │   ├── gemini.py                  # Gemini AI integration
